@@ -10,7 +10,7 @@
   "keywords": [
     "rfrf"
   ],
-  "author": "Nebula Services",
+  "author": "Nervs",
   "license": "AGPL-3.0-only",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
